@@ -1,9 +1,10 @@
 /*****************************************************************************
- * DECOHack Patch File
+ * MBF21 Example DECOHack
  * Main
  ****************************************************************************/
 
 #include "classpath:decohack/mbf21.dh"
 #include "classpath:decohack/constants/friendly_things.dh"
 
-// [XA] TODO: stuff. :P
+#include "weapons/chaingun.dh"
+#include "weapons/plasmarifle.dh"
