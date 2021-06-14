@@ -6,5 +6,8 @@
 #include "classpath:decohack/mbf21.dh"
 #include "classpath:decohack/constants/friendly_things.dh"
 
+#include "defs.dh"
+
 #include "weapons/chaingun.dh"
+#include "weapons/rocketlauncher.dh"
 #include "weapons/plasmarifle.dh"
